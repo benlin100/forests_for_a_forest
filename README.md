@@ -1,5 +1,5 @@
 # How Random Is Your Forest?
-The objectives of this project is 1) predicting the predominant tree type in a section of the Roosevelt National Forest 2) determining the optimal soil type for that section. 
+The objectives of this project are to 1) predict the predominant tree type in a section of the Roosevelt National Forest 2) determine the optimal soil type for that section. 
 
 **Getting Started**   
 With Python installed and configured, the code .ipynb files may be run directly through Jupyter Notebook.  
