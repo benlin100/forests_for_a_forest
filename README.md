@@ -16,6 +16,7 @@ If any libraries are missing, they may be easily installed with the command pip 
 
 **Repository Structure**  
 - code: Contains scripts to run  
+- data: Datafiles  
 - soils: Contains chart with the optimal soil types for a particular tree type  
 - slides.pdf: Presentation slides  
 - summary: Project write-up  
