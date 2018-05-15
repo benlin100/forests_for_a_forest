@@ -18,5 +18,5 @@ If any libraries are missing, they may be easily installed with the command pip 
 - code: Contains scripts to run  
 - data: Datafiles  
 - soils: Contains chart with the optimal soil types for a particular tree type  
-- slides.pdf: Presentation slides  
+- slides: Presentation slides  
 - summary: Project write-up  
